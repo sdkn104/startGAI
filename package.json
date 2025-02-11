@@ -13,5 +13,13 @@
   "dependencies": {
     "node-clipboardy": "^1.0.3",
     "puppeteer-core": "^24.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdkn104/startGAI.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sdkn104/startGAI/issues"
+  },
+  "homepage": "https://github.com/sdkn104/startGAI#readme"
 }
