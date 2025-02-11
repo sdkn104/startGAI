@@ -1,0 +1,19 @@
+
+node 22.x.x
+
+npm init -y
+npm install puppeteer-core
+npm install node-clipboardy
+
+
+-----
+
+npm install nexe@3.3.3
+node_modules\.bin\nexe -i go_gai.js -o mail.exe -t windows-x64-12.17.0
+
+
+---
+node 19.19.1
+npm init -y
+npm install pkg
+npm install pkg-fetch@3.5
