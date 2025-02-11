@@ -1,2 +1,4 @@
 git config --global credential.helper store
-alias
+alias gps git pish origin main
+alias gpl git pull origin main
+
