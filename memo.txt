@@ -1,10 +1,4 @@
 
-node 22.x.x
-
-npm init -y
-npm install puppeteer-core
-npm install node-clipboardy
-
 
 -----
 
