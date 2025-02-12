@@ -1,4 +1,4 @@
 git config --global credential.helper store
-alias gps='git pish origin main'
+alias gps='git push origin main'
 alias gpl='git pull origin main'
 alias soo='source ~/so.shrc'
